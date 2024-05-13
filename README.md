@@ -32,10 +32,10 @@ Welcome to TrendInOne, a Django-based e-commerce website clone! This project aim
 
 To run the project locally:
 
-Clone the repository.
-Install dependencies: pip install -r requirements.txt.
-Make database migrations: python manage.py makemigrations and python manage.py migrate.
-Run the application: python manage.py runserver.
+1. Clone the repository.
+2. Install dependencies: pip install -r requirements.txt.
+3. Make database migrations: python manage.py makemigrations and python manage.py migrate.
+4. Run the application: python manage.py runserver.
 
 ## Note
 
