@@ -25,17 +25,29 @@ Welcome to TrendInOne, a Django-based e-commerce website clone! This project aim
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](![Screenshot 2024-05-14 005205](https://github.com/vaisharma16/trendin/assets/68912539/0cec2ca4-b3db-4b6f-be81-192e864bbebe)
+![Screenshot 2](![Screenshot 2024-05-14 005216](https://github.com/vaisharma16/trendin/assets/68912539/7a88a51d-fe89-4c72-9901-2eef6cb68be2)
+
 
 ## Usage
 
 To run the project locally:
 
 1. Clone the repository.
-2. Install dependencies: pip install -r requirements.txt.
-3. Make database migrations: python manage.py makemigrations and python manage.py migrate.
-4. Run the application: python manage.py runserver.
+   ```bash
+   git clone https://github.com/vaisharma16/trendin.git
+   
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt.
+   
+3. Make database migrations:
+   ```bash
+   python manage.py makemigrations and python manage.py migrate.
+   
+4. Run the application:
+   ```bash
+   python manage.py runserver.
 
 ## Note
 
