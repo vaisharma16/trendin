@@ -19,9 +19,9 @@ Welcome to TrendInOne, a Django-based e-commerce website clone! This project aim
 
 ## Contributors
 
-- [Contributor 1]: Frontend Development - https://github.com/shagun14
-- [Contributor 2]: Backend Development - https://github.com/gauravisharma1508
-- [Contributor 3]: Backend Development - https://github.com/vaisharma16
+- [Contributor 1]: Frontend Development - Shagun Mishra https://github.com/shagun14
+- [Contributor 2]: Backend Development - Gauravi Sharma https://github.com/gauravisharma1508
+- [Contributor 3]: Backend Development - Vaibhav Sharma https://github.com/vaisharma16
 
 ## Screenshots
 
